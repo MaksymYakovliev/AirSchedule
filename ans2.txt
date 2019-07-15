@@ -1,0 +1,531 @@
+59.0
+Crew group 1 schedule: 
+Starting from Day 1 from HZ to HZ (route 3);
+Day 2 from HZ to HZ (route 3);
+Day 3 from HZ to HZ (route 3);
+Day 4 from HZ to HZ (route 3);
+Day 5 from HZ to HZ (route 3);
+Day 6 from HZ to HZ (route 3);
+Day 7 from HZ to HZ (route 3);
+
+Crew group 2 schedule: 
+Starting from Day 1 from HZ to HZ (route 3);
+Day 2 from HZ to HZ (route 3);
+Day 3 from HZ to HZ (route 3);
+Day 4 from HZ to HZ (route 3);
+Day 5 from HZ to HZ (route 3);
+Day 6 from HZ to HZ (route 3);
+Day 7 from HZ to HZ (route 3);
+
+Crew group 3 schedule: 
+Starting from Day 1 from HZ to HZ (route 4);
+Day 2 from HZ to HZ (route 4);
+Day 3 from HZ to HZ (route 4);
+Day 4 from HZ to HZ (route 4);
+Day 5 from HZ to HZ (route 4);
+Day 6 from HZ to HZ (route 4);
+Day 7 from HZ to HZ (route 4);
+
+Crew group 4 schedule: 
+Starting from Day 1 from HZ to HB (route 1);
+Day 2 from HB to HB (route 22);
+Day 3 from HB to HZ (route 1);
+Day 4 from HZ to HB (route 1);
+Day 5 from HB to HZ (route 1);
+Day 6 from HZ to HB (route 1);
+Day 7 from HB to HZ (route 1);
+
+Crew group 5 schedule: 
+Starting from Day 1 from HZ to HB (route 2);
+Day 2 from HB to HB (route 22);
+Day 3 from HB to HZ (route 2);
+Day 4 from HZ to HB (route 2);
+Day 5 from HB to HZ (route 2);
+Day 6 from HZ to HB (route 2);
+Day 7 from HB to HZ (route 2);
+
+Crew group 6 schedule: 
+Starting from Day 1 from HZ to NB (route 25);
+Day 2 from NB to NB (route 26);
+Day 3 from NB to NB (route 26);
+Day 4 from NB to NB (route 26);
+Day 5 from NB to NB (route 26);
+Day 6 from NB to NB (route 26);
+Day 7 from NB to HZ (route 25);
+
+Crew group 7 schedule: 
+Starting from Day 1 from HZ to XA (route 7);
+Day 2 from XA to HZ (route 4);
+Day 3 from HZ to HB (route 1);
+Day 4 from HB to HZ (route 1);
+Day 5 from HZ to HB (route 1);
+Day 6 from HB to HZ (route 1);
+Day 7 from HZ to HZ (route 8);
+
+Crew group 8 schedule: 
+Starting from Day 1 from HZ to HZ (route 8);
+Day 2 from HZ to HB (route 1);
+Day 3 from HB to HB (route 22);
+Day 4 from HB to HB (route 22);
+Day 5 from HB to HB (route 22);
+Day 6 from HB to HB (route 22);
+Day 7 from HB to HZ (route 16);
+
+Crew group 9 schedule: 
+Starting from Day 1 from HZ to HZ (route 9);
+Day 2 from HZ to HB (route 2);
+Day 3 from HB to HB (route 22);
+Day 4 from HB to HB (route 22);
+Day 5 from HB to HB (route 22);
+Day 6 from HB to HB (route 22);
+Day 7 from HB to HZ (with other flight);
+
+Crew group 10 schedule: 
+Starting from Day 1 from HZ to HZ (route 9);
+Day 2 from HZ to HB (route 16);
+Day 3 from HB to HB (route 23);
+Day 4 from HB to HB (route 23);
+Day 5 from HB to HB (route 23);
+Day 6 from HB to HB (route 23);
+Day 7 from HB to HZ (with other flight);
+
+Crew group 11 schedule: 
+Starting from Day 1 from HZ to HB (route 16);
+Day 2 from HB to HZ (route 1);
+Day 3 from HZ to XA (route 7);
+Day 4 from XA to XA (route 10);
+Day 5 from XA to HZ (route 7);
+Day 6 from HZ to XA (route 4);
+Day 7 from XA to HZ (route 7);
+
+Crew group 12 schedule: 
+Starting from Day 1 from HZ to HZ (route 12);
+Day 2 from HZ to XA (route 4);
+Day 3 from XA to XA (route 10);
+Day 4 from XA to HZ (route 4);
+Day 5 from HZ to XA (route 7);
+Day 6 from XA to HZ (route 4);
+Day 7 from HZ to HZ (route 9);
+
+Crew group 13 schedule: 
+Starting from Day 1 from HZ to XA (route 10);
+Day 2 from XA to XA (route 10);
+Day 3 from XA to HZ (route 7);
+Day 4 from HZ to XA (route 4);
+Day 5 from XA to XA (route 10);
+Day 6 from XA to XA (route 10);
+Day 7 from XA to HZ (route 11);
+
+Crew group 14 schedule: 
+Starting from Day 1 from HZ to KM (route 12);
+Day 2 from KM to HZ (route 7);
+Day 3 from HZ to KM (route 12);
+Day 4 from KM to HZ (route 7);
+Day 5 from HZ to KM (route 12);
+Day 6 from KM to HZ (route 7);
+Day 7 from HZ to HZ (route 9);
+
+Crew group 15 schedule: 
+Starting from Day 1 from HZ to SZ (route 5);
+Day 2 from SZ to HZ (route 6);
+Day 3 from HZ to SZ (route 5);
+Day 4 from SZ to HZ (route 6);
+Day 5 from HZ to SZ (route 5);
+Day 6 from SZ to HZ (route 6);
+Day 7 from HZ to HZ (route 12);
+
+Crew group 16 schedule: 
+Starting from Day 1 from HZ to CD (route 6);
+Day 2 from CD to HZ (route 7);
+Day 3 from HZ to CD (route 6);
+Day 4 from CD to HZ (route 7);
+Day 5 from HZ to CD (route 6);
+Day 6 from CD to HZ (route 7);
+Day 7 from HZ to HZ (route 15);
+
+Crew group 17 schedule: 
+Starting from Day 1 from HZ to WM (route 14);
+Day 2 from WM to HZ (route 15);
+Day 3 from HZ to NB (route 25);
+Day 4 from NB to KM (route 27);
+Day 5 from KM to CC (route 13);
+Day 6 from CC to HZ (route 18);
+Day 7 from HZ to HZ (route 18);
+
+Crew group 18 schedule: 
+Starting from Day 1 from HZ to HZ (route 15);
+Day 2 from HZ to SZ (route 5);
+Day 3 from SZ to HZ (route 6);
+Day 4 from HZ to SZ (route 5);
+Day 5 from SZ to HZ (route 6);
+Day 6 from HZ to SZ (route 5);
+Day 7 from SZ to HZ (route 6);
+
+Crew group 19 schedule: 
+Starting from Day 1 from HZ to HZ (route 18);
+Day 2 from HZ to CD (route 6);
+Day 3 from CD to HZ (route 7);
+Day 4 from HZ to CD (route 6);
+Day 5 from CD to HZ (route 7);
+Day 6 from HZ to CD (route 6);
+Day 7 from CD to HZ (route 7);
+
+Crew group 20 schedule: 
+Starting from Day 1 from HZ to HZ (route 19);
+Day 2 from HZ to WM (route 14);
+Day 3 from WM to HZ (route 15);
+Day 4 from HZ to WM (route 14);
+Day 5 from WM to HZ (route 15);
+Day 6 from HZ to WM (route 14);
+Day 7 from WM to HZ (route 15);
+
+Crew group 21 schedule: 
+Starting from Day 1 from HZ to HZ (route 20);
+Day 2 from HZ to BJ (route 16);
+Day 3 from BJ to HZ (route 18);
+Day 4 from HZ to BJ (route 16);
+Day 5 from BJ to HZ (route 18);
+Day 6 from HZ to BJ (route 16);
+Day 7 from BJ to HZ (route 18);
+
+Crew group 22 schedule: 
+Starting from Day 1 from HZ to BJ (route 16);
+Day 2 from BJ to XA (route 17);
+Day 3 from XA to BJ (route 17);
+Day 4 from BJ to XA (route 17);
+Day 5 from XA to BJ (route 17);
+Day 6 from BJ to XA (route 17);
+Day 7 from XA to HZ (with other flight);
+
+Crew group 23 schedule: 
+Starting from Day 1 from HZ to XA (with other flight);
+Day 2 from XA to YZ (route 17);
+Day 3 from YZ to XA (route 17);
+Day 4 from XA to YZ (route 17);
+Day 5 from YZ to XA (route 17);
+Day 6 from XA to HZ (route 11);
+Day 7 from HZ to HZ (route 19);
+
+Crew group 24 schedule: 
+Starting from Day 1 from HZ to HZ (route 21);
+Day 2 from HZ to CC (route 24);
+Day 3 from CC to KM (route 13);
+Day 4 from KM to CC (route 13);
+Day 5 from CC to KM (route 13);
+Day 6 from KM to HZ (route 14);
+Day 7 from HZ to HZ (route 20);
+
+Crew group 25 schedule: 
+Starting from Day 1 from HZ to KM (with other flight);
+Day 2 from KM to NB (route 27);
+Day 3 from NB to KM (route 27);
+Day 4 from KM to NB (route 27);
+Day 5 from NB to KM (route 27);
+Day 6 from KM to HZ (with other flight);
+Day 7 from HZ to HZ (route 21);
+
+Crew group 26 schedule: 
+Starting from Day 1 from HZ to HZ (route 21);
+Day 2 from HZ to XA (route 10);
+Day 3 from XA to YZ (route 17);
+Day 4 from YZ to XA (route 17);
+Day 5 from XA to YZ (route 17);
+Day 6 from YZ to XA (route 17);
+Day 7 from XA to HZ (with other flight);
+
+Crew group 27 schedule: 
+Starting from Day 1 from HZ to KM (with other flight);
+Day 2 from KM to CC (route 13);
+Day 3 from CC to CC (rest);
+Day 4 from CC to KM (route 13);
+Day 5 from KM to NB (route 27);
+Day 6 from NB to HZ (route 25);
+Day 7 from HZ to HZ (route 21);
+
+Crew group 28 schedule: 
+Starting from Day 1 from HZ to HZ (route 24);
+Day 2 from HZ to HZ (route 8);
+Day 3 from HZ to HZ (route 8);
+Day 4 from HZ to CC (route 18);
+Day 5 from CC to CC (rest);
+Day 6 from CC to KM (route 13);
+Day 7 from KM to HZ (route 14);
+
+Crew group 29 schedule: 
+Starting from Day 1 from HB to HB (route 22);
+Day 2 from HB to HZ (route 2);
+Day 3 from HZ to HZ (route 9);
+Day 4 from HZ to HZ (route 8);
+Day 5 from HZ to HZ (route 8);
+Day 6 from HZ to HB (route 16);
+Day 7 from HB to HB (route 22);
+
+Crew group 30 schedule: 
+Starting from Day 1 from XA to HZ (route 7);
+Day 2 from HZ to HZ (route 9);
+Day 3 from HZ to HZ (route 9);
+Day 4 from HZ to HZ (route 9);
+Day 5 from HZ to HZ (route 9);
+Day 6 from HZ to HZ (route 8);
+Day 7 from HZ to XA (route 7);
+
+Crew group 31 schedule: 
+Starting from Day 1 from XA to XA (route 10);
+Day 2 from XA to HZ (route 11);
+Day 3 from HZ to HZ (route 12);
+Day 4 from HZ to HZ (route 9);
+Day 5 from HZ to HZ (route 9);
+Day 6 from HZ to XA (route 10);
+Day 7 from XA to XA (route 10);
+
+Crew group 32 schedule: 
+Starting from Day 1 from XA to YZ (route 17);
+Day 2 from YZ to XA (route 17);
+Day 3 from XA to HZ (route 11);
+Day 4 from HZ to HZ (route 12);
+Day 5 from HZ to XA (route 10);
+Day 6 from XA to YZ (route 17);
+Day 7 from YZ to XA (route 17);
+
+Crew group 33 schedule: 
+Starting from Day 1 from SZ to HZ (route 6);
+Day 2 from HZ to HZ (route 9);
+Day 3 from HZ to HZ (route 15);
+Day 4 from HZ to HZ (route 19);
+Day 5 from HZ to HZ (route 12);
+Day 6 from HZ to HZ (route 9);
+Day 7 from HZ to SZ (route 5);
+
+Crew group 34 schedule: 
+Starting from Day 1 from CD to HZ (route 7);
+Day 2 from HZ to HZ (route 12);
+Day 3 from HZ to HZ (route 18);
+Day 4 from HZ to HZ (route 20);
+Day 5 from HZ to HZ (route 15);
+Day 6 from HZ to HZ (route 9);
+Day 7 from HZ to CD (route 6);
+
+Crew group 35 schedule: 
+Starting from Day 1 from KM to CC (route 13);
+Day 2 from CC to HZ (route 24);
+Day 3 from HZ to HZ (route 19);
+Day 4 from HZ to HZ (route 21);
+Day 5 from HZ to HZ (route 18);
+Day 6 from HZ to CC (route 18);
+Day 7 from CC to KM (route 13);
+
+Crew group 36 schedule: 
+Starting from Day 1 from WM to HZ (route 15);
+Day 2 from HZ to HZ (route 18);
+Day 3 from HZ to HZ (route 20);
+Day 4 from HZ to HZ (route 24);
+Day 5 from HZ to HZ (route 19);
+Day 6 from HZ to HZ (route 12);
+Day 7 from HZ to WM (route 14);
+
+Crew group 37 schedule: 
+Starting from Day 1 from YZ to XA (route 17);
+Day 2 from XA to HZ (with other flight);
+Day 3 from HZ to HZ (route 21);
+Day 4 from HZ to HZ (rest);
+Day 5 from HZ to HZ (route 20);
+Day 6 from HZ to XA (with other flight);
+Day 7 from XA to YZ (route 17);
+
+Crew group 38 schedule: 
+Starting from Day 1 from NB to NB (route 26);
+Day 2 from NB to HZ (route 25);
+Day 3 from HZ to HZ (route 21);
+Day 4 from HZ to HZ (rest);
+Day 5 from HZ to HZ (route 21);
+Day 6 from HZ to NB (route 25);
+Day 7 from NB to NB (route 26);
+
+Crew group 39 schedule: 
+Starting from Day 1 from NB to NB (route 26);
+Day 2 from NB to HZ (with other flight);
+Day 3 from HZ to HZ (route 24);
+Day 4 from HZ to HZ (rest);
+Day 5 from HZ to HZ (route 21);
+Day 6 from HZ to NB (with other flight);
+Day 7 from NB to NB (route 26);
+
+Crew group 40 schedule: 
+Starting from Day 4 from HZ to KM (route 7);
+Day 5 from KM to HZ (route 14);
+Day 6 from HZ to HZ (route 19);
+Day 7 from HZ to NB (route 25);
+Day 1 from NB to NB (route 27);
+Day 2 from NB to KM (route 27);
+Day 3 from KM to HZ (route 14);
+
+Crew group 41 schedule: 
+Starting from Day 4 from HZ to KM (route 12);
+Day 5 from KM to HZ (with other flight);
+Day 6 from HZ to HZ (route 20);
+Day 7 from HZ to HB (route 1);
+Day 1 from HB to HB (route 22);
+Day 2 from HB to HB (route 23);
+Day 3 from HB to HZ (route 16);
+
+Crew group 42 schedule: 
+Starting from Day 2 from HZ to KM (route 7);
+Day 3 from KM to KM (rest);
+Day 4 from KM to HZ (route 14);
+Day 5 from HZ to HZ (route 24);
+Day 6 from HZ to HB (with other flight);
+Day 7 from HB to HB (route 22);
+Day 1 from HB to HZ (route 1);
+
+Crew group 43 schedule: 
+Starting from Day 4 from HZ to HB (route 16);
+Day 5 from HB to HZ (route 16);
+Day 6 from HZ to KM (route 7);
+Day 7 from KM to NB (route 27);
+Day 1 from NB to NB (route 28);
+Day 2 from NB to NB (route 26);
+Day 3 from NB to HZ (route 25);
+
+Crew group 44 schedule: 
+Starting from Day 2 from HZ to KM (route 12);
+Day 3 from KM to CC (route 13);
+Day 4 from CC to HZ (route 18);
+Day 5 from HZ to NB (route 25);
+Day 6 from NB to NB (route 26);
+Day 7 from NB to NB (route 28);
+Day 1 from NB to HZ (route 25);
+
+Crew group 45 schedule: 
+Starting from Day 5 from HZ to BJ (route 16);
+Day 6 from BJ to HZ (route 18);
+Day 7 from HZ to XA (route 10);
+Day 1 from XA to XA (route 11);
+Day 2 from XA to XA (route 11);
+Day 3 from XA to XA (route 11);
+Day 4 from XA to HZ (route 11);
+
+Crew group 46 schedule: 
+Starting from Day 2 from HZ to HZ (route 19);
+Day 3 from HZ to WM (route 14);
+Day 4 from WM to HZ (route 15);
+Day 5 from HZ to HB (route 2);
+Day 6 from HB to HB (rest);
+Day 7 from HB to HB (route 23);
+Day 1 from HB to HZ (route 2);
+
+Crew group 47 schedule: 
+Starting from Day 6 from HZ to XA (with other flight);
+Day 7 from XA to BJ (route 17);
+Day 1 from BJ to XA (route 17);
+Day 2 from XA to BJ (route 17);
+Day 3 from BJ to HZ (with other flight);
+Day 4 from HZ to XA (route 10);
+Day 5 from XA to HZ (route 11);
+
+Crew group 48 schedule: 
+Starting from Day 2 from HZ to BJ (with other flight);
+Day 3 from BJ to XA (route 17);
+Day 4 from XA to XA (route 11);
+Day 5 from XA to XA (route 11);
+Day 6 from XA to XA (route 11);
+Day 7 from XA to XA (route 11);
+Day 1 from XA to HZ (route 11);
+
+Crew group 49 schedule: 
+Starting from Day 3 from HZ to BJ (route 16);
+Day 4 from BJ to HZ (route 18);
+Day 5 from HZ to HB (route 16);
+Day 6 from HB to HZ (route 2);
+Day 7 from HZ to KM (route 12);
+Day 1 from KM to KM (rest);
+Day 2 from KM to HZ (route 14);
+
+Crew group 50 schedule: 
+Starting from Day 6 from HZ to KM (route 12);
+Day 7 from KM to CC (route 13);
+Day 1 from CC to CC (rest);
+Day 2 from CC to KM (route 13);
+Day 3 from KM to NB (route 27);
+Day 4 from NB to NB (route 26);
+Day 5 from NB to HZ (route 25);
+
+Crew group 51 schedule: 
+Starting from Day 1 from HZ to HZ (rest);
+Day 2 from HZ to HZ (route 20);
+Day 3 from HZ to XA (route 10);
+Day 4 from XA to BJ (route 17);
+Day 5 from BJ to HZ (with other flight);
+Day 6 from HZ to HZ (route 21);
+Day 7 from HZ to HZ (route 24);
+
+Crew group 52 schedule: 
+Starting from Day 3 from HZ to HB (route 2);
+Day 4 from HB to HZ (route 2);
+Day 5 from HZ to HZ (rest);
+Day 6 from HZ to XA (with other flight);
+Day 7 from XA to XA (rest);
+Day 1 from XA to BJ (route 17);
+Day 2 from BJ to HZ (route 18);
+
+Crew group 53 schedule: 
+Starting from Day 3 from HZ to HB (route 16);
+Day 4 from HB to HZ (route 16);
+Day 5 from HZ to HZ (rest);
+Day 6 from HZ to HZ (route 24);
+Day 7 from HZ to HB (route 2);
+Day 1 from HB to HB (route 23);
+Day 2 from HB to HZ (route 16);
+
+Crew group 54 schedule: 
+Starting from Day 2 from HZ to NB (route 25);
+Day 3 from NB to NB (route 28);
+Day 4 from NB to HZ (route 25);
+Day 5 from HZ to HB (with other flight);
+Day 6 from HB to HZ (route 16);
+Day 7 from HZ to HB (route 16);
+Day 1 from HB to HZ (route 16);
+
+Crew group 55 schedule: 
+Starting from Day 1 from NB to NB (rest);
+Day 2 from NB to NB (route 28);
+Day 3 from NB to NB (rest);
+Day 4 from NB to NB (route 28);
+Day 5 from NB to NB (route 26);
+Day 6 from NB to NB (route 27);
+Day 7 from NB to NB (rest);
+
+Crew group 56 schedule: 
+Starting from Day 5 from HZ to WM (route 14);
+Day 6 from WM to HZ (route 15);
+Day 7 from HZ to BJ (route 16);
+Day 1 from BJ to HZ (route 18);
+Day 2 from HZ to HZ (route 21);
+Day 3 from HZ to HZ (rest);
+Day 4 from HZ to HZ (rest);
+
+Crew group 57 schedule: 
+Starting from Day 2 from KM to KM (rest);
+Day 3 from KM to KM (rest);
+Day 4 from KM to KM (rest);
+Day 5 from KM to KM (rest);
+Day 6 from KM to CC (route 13);
+Day 7 from CC to CC (rest);
+Day 1 from CC to KM (route 13);
+
+Crew group 58 schedule: 
+Starting from Day 2 from HZ to HZ (rest);
+Day 3 from HZ to HZ (rest);
+Day 4 from HZ to NB (route 25);
+Day 5 from NB to NB (route 28);
+Day 6 from NB to NB (route 28);
+Day 7 from NB to KM (route 27);
+Day 1 from KM to HZ (route 14);
+
+Crew group 59 schedule: 
+Starting from Day 2 from HZ to HZ (rest);
+Day 3 from HZ to HZ (rest);
+Day 4 from HZ to BJ (with other flight);
+Day 5 from BJ to XA (route 17);
+Day 6 from XA to BJ (route 17);
+Day 7 from BJ to XA (route 17);
+Day 1 from XA to HZ (with other flight);
