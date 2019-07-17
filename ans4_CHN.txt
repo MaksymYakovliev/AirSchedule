@@ -1,0 +1,530 @@
+Crew group 1 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 3);
+Day 2 from 杭州 to 杭州 (机序 3);
+Day 3 from 杭州 to 杭州 (机序 3);
+Day 4 from 杭州 to 杭州 (机序 3);
+Day 5 from 杭州 to 杭州 (机序 3);
+Day 6 from 杭州 to 杭州 (机序 3);
+Day 7 from 杭州 to 杭州 (机序 3);
+
+Crew group 2 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 3);
+Day 2 from 杭州 to 杭州 (机序 3);
+Day 3 from 杭州 to 杭州 (机序 3);
+Day 4 from 杭州 to 杭州 (机序 3);
+Day 5 from 杭州 to 杭州 (机序 3);
+Day 6 from 杭州 to 杭州 (机序 3);
+Day 7 from 杭州 to 杭州 (机序 3);
+
+Crew group 3 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 4);
+Day 2 from 杭州 to 杭州 (机序 4);
+Day 3 from 杭州 to 杭州 (机序 4);
+Day 4 from 杭州 to 杭州 (机序 4);
+Day 5 from 杭州 to 杭州 (机序 4);
+Day 6 from 杭州 to 杭州 (机序 4);
+Day 7 from 杭州 to 杭州 (机序 4);
+
+Crew group 4 schedule: 
+Starting from Day 1 from 杭州 to 哈尔滨 (机序 1);
+Day 2 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 3 from 哈尔滨 to 杭州 (机序 1);
+Day 4 from 杭州 to 哈尔滨 (机序 1);
+Day 5 from 哈尔滨 to 杭州 (机序 1);
+Day 6 from 杭州 to 哈尔滨 (机序 1);
+Day 7 from 哈尔滨 to 杭州 (机序 1);
+
+Crew group 5 schedule: 
+Starting from Day 1 from 杭州 to 宁波 (机序 25);
+Day 2 from 宁波 to 宁波 (机序 26);
+Day 3 from 宁波 to 宁波 (机序 26);
+Day 4 from 宁波 to 宁波 (机序 26);
+Day 5 from 宁波 to 宁波 (机序 26);
+Day 6 from 宁波 to 宁波 (机序 26);
+Day 7 from 宁波 to 杭州 (机序 25);
+
+Crew group 6 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 8);
+Day 2 from 杭州 to 哈尔滨 (机序 1);
+Day 3 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 4 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 5 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 6 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 7 from 哈尔滨 to 杭州 (机序 2);
+
+Crew group 7 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 9);
+Day 2 from 杭州 to 哈尔滨 (机序 2);
+Day 3 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 4 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 5 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 6 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 7 from 哈尔滨 to 杭州 (机序 16);
+
+Crew group 8 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 9);
+Day 2 from 杭州 to 哈尔滨 (机序 16);
+Day 3 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 4 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 5 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 6 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 7 from 哈尔滨 to 杭州 (乘客身份);
+
+Crew group 9 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 12);
+Day 2 from 杭州 to 西安 (机序 4);
+Day 3 from 西安 to 西安 (机序 10);
+Day 4 from 西安 to 杭州 (机序 4);
+Day 5 from 杭州 to 西安 (机序 7);
+Day 6 from 西安 to 杭州 (机序 4);
+Day 7 from 杭州 to 杭州 (机序 8);
+
+Crew group 10 schedule: 
+Starting from Day 1 from 杭州 to 西安 (机序 7);
+Day 2 from 西安 to 西安 (机序 10);
+Day 3 from 西安 to 杭州 (机序 7);
+Day 4 from 杭州 to 西安 (机序 4);
+Day 5 from 西安 to 西安 (机序 10);
+Day 6 from 西安 to 西安 (机序 10);
+Day 7 from 西安 to 杭州 (机序 7);
+
+Crew group 11 schedule: 
+Starting from Day 1 from 杭州 to 昆明 (机序 12);
+Day 2 from 昆明 to 杭州 (机序 7);
+Day 3 from 杭州 to 昆明 (机序 12);
+Day 4 from 昆明 to 杭州 (机序 7);
+Day 5 from 杭州 to 昆明 (机序 12);
+Day 6 from 昆明 to 杭州 (机序 7);
+Day 7 from 杭州 to 杭州 (机序 9);
+
+Crew group 12 schedule: 
+Starting from Day 1 from 杭州 to 深圳 (机序 5);
+Day 2 from 深圳 to 杭州 (机序 6);
+Day 3 from 杭州 to 深圳 (机序 5);
+Day 4 from 深圳 to 杭州 (机序 6);
+Day 5 from 杭州 to 深圳 (机序 5);
+Day 6 from 深圳 to 杭州 (机序 6);
+Day 7 from 杭州 to 杭州 (机序 9);
+
+Crew group 13 schedule: 
+Starting from Day 1 from 杭州 to 成都 (机序 6);
+Day 2 from 成都 to 杭州 (机序 7);
+Day 3 from 杭州 to 成都 (机序 6);
+Day 4 from 成都 to 杭州 (机序 7);
+Day 5 from 杭州 to 成都 (机序 6);
+Day 6 from 成都 to 杭州 (机序 7);
+Day 7 from 杭州 to 杭州 (机序 12);
+
+Crew group 14 schedule: 
+Starting from Day 1 from 杭州 to 乌鲁木齐 (机序 14);
+Day 2 from 乌鲁木齐 to 杭州 (机序 15);
+Day 3 from 杭州 to 宁波 (机序 25);
+Day 4 from 宁波 to 昆明 (机序 27);
+Day 5 from 昆明 to 重庆 (机序 13);
+Day 6 from 重庆 to 杭州 (机序 18);
+Day 7 from 杭州 to 杭州 (机序 15);
+
+Crew group 15 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 15);
+Day 2 from 杭州 to 深圳 (机序 5);
+Day 3 from 深圳 to 杭州 (机序 6);
+Day 4 from 杭州 to 深圳 (机序 5);
+Day 5 from 深圳 to 杭州 (机序 6);
+Day 6 from 杭州 to 深圳 (机序 5);
+Day 7 from 深圳 to 杭州 (机序 6);
+
+Crew group 16 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 18);
+Day 2 from 杭州 to 成都 (机序 6);
+Day 3 from 成都 to 杭州 (机序 7);
+Day 4 from 杭州 to 成都 (机序 6);
+Day 5 from 成都 to 杭州 (机序 7);
+Day 6 from 杭州 to 成都 (机序 6);
+Day 7 from 成都 to 杭州 (机序 7);
+
+Crew group 17 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 19);
+Day 2 from 杭州 to 乌鲁木齐 (机序 14);
+Day 3 from 乌鲁木齐 to 杭州 (机序 15);
+Day 4 from 杭州 to 乌鲁木齐 (机序 14);
+Day 5 from 乌鲁木齐 to 杭州 (机序 15);
+Day 6 from 杭州 to 乌鲁木齐 (机序 14);
+Day 7 from 乌鲁木齐 to 杭州 (机序 15);
+
+Crew group 18 schedule: 
+Starting from Day 1 from 杭州 to 北京 (机序 16);
+Day 2 from 北京 to 西安 (机序 17);
+Day 3 from 西安 to 北京 (机序 17);
+Day 4 from 北京 to 西安 (机序 17);
+Day 5 from 西安 to 北京 (机序 17);
+Day 6 from 北京 to 西安 (机序 17);
+Day 7 from 西安 to 杭州 (机序 11);
+
+Crew group 19 schedule: 
+Starting from Day 1 from 杭州 to 西安 (机序 10);
+Day 2 from 西安 to 芽庄 (机序 17);
+Day 3 from 芽庄 to 西安 (机序 17);
+Day 4 from 西安 to 芽庄 (机序 17);
+Day 5 from 芽庄 to 西安 (机序 17);
+Day 6 from 西安 to 杭州 (机序 11);
+Day 7 from 杭州 to 杭州 (机序 18);
+
+Crew group 20 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 20);
+Day 2 from 杭州 to 重庆 (机序 24);
+Day 3 from 重庆 to 昆明 (机序 13);
+Day 4 from 昆明 to 重庆 (机序 13);
+Day 5 from 重庆 to 昆明 (机序 13);
+Day 6 from 昆明 to 杭州 (机序 14);
+Day 7 from 杭州 to 杭州 (机序 19);
+
+Crew group 21 schedule: 
+Starting from Day 1 from 杭州 to 昆明 (乘客身份);
+Day 2 from 昆明 to 宁波 (机序 27);
+Day 3 from 宁波 to 昆明 (机序 27);
+Day 4 from 昆明 to 宁波 (机序 27);
+Day 5 from 宁波 to 昆明 (机序 27);
+Day 6 from 昆明 to 杭州 (乘客身份);
+Day 7 from 杭州 to 杭州 (机序 20);
+
+Crew group 22 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 21);
+Day 2 from 杭州 to 西安 (机序 10);
+Day 3 from 西安 to 芽庄 (机序 17);
+Day 4 from 芽庄 to 西安 (机序 17);
+Day 5 from 西安 to 芽庄 (机序 17);
+Day 6 from 芽庄 to 西安 (机序 17);
+Day 7 from 西安 to 杭州 (乘客身份);
+
+Crew group 23 schedule: 
+Starting from Day 1 from 杭州 to 昆明 (乘客身份);
+Day 2 from 昆明 to 重庆 (机序 13);
+Day 3 from 重庆 to 重庆 (休息);
+Day 4 from 重庆 to 昆明 (机序 13);
+Day 5 from 昆明 to 宁波 (机序 27);
+Day 6 from 宁波 to 杭州 (机序 25);
+Day 7 from 杭州 to 杭州 (机序 21);
+
+Crew group 24 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 21);
+Day 2 from 杭州 to 杭州 (机序 8);
+Day 3 from 杭州 to 杭州 (机序 8);
+Day 4 from 杭州 to 重庆 (机序 18);
+Day 5 from 重庆 to 重庆 (休息);
+Day 6 from 重庆 to 昆明 (机序 13);
+Day 7 from 昆明 to 杭州 (机序 14);
+
+Crew group 25 schedule: 
+Starting from Day 1 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 2 from 哈尔滨 to 杭州 (机序 1);
+Day 3 from 杭州 to 杭州 (机序 9);
+Day 4 from 杭州 to 杭州 (机序 8);
+Day 5 from 杭州 to 杭州 (机序 8);
+Day 6 from 杭州 to 哈尔滨 (机序 2);
+Day 7 from 哈尔滨 to 哈尔滨 (机序 22);
+
+Crew group 26 schedule: 
+Starting from Day 1 from 西安 to 杭州 (机序 7);
+Day 2 from 杭州 to 杭州 (机序 9);
+Day 3 from 杭州 to 杭州 (机序 9);
+Day 4 from 杭州 to 杭州 (机序 9);
+Day 5 from 杭州 to 杭州 (机序 9);
+Day 6 from 杭州 to 杭州 (机序 8);
+Day 7 from 杭州 to 西安 (机序 7);
+
+Crew group 27 schedule: 
+Starting from Day 1 from 西安 to 西安 (机序 10);
+Day 2 from 西安 to 杭州 (机序 4);
+Day 3 from 杭州 to 杭州 (机序 12);
+Day 4 from 杭州 to 杭州 (机序 9);
+Day 5 from 杭州 to 杭州 (机序 9);
+Day 6 from 杭州 to 西安 (机序 4);
+Day 7 from 西安 to 西安 (机序 10);
+
+Crew group 28 schedule: 
+Starting from Day 1 from 西安 to 芽庄 (机序 17);
+Day 2 from 芽庄 to 西安 (机序 17);
+Day 3 from 西安 to 杭州 (机序 11);
+Day 4 from 杭州 to 杭州 (机序 12);
+Day 5 from 杭州 to 西安 (机序 10);
+Day 6 from 西安 to 芽庄 (机序 17);
+Day 7 from 芽庄 to 西安 (机序 17);
+
+Crew group 29 schedule: 
+Starting from Day 1 from 深圳 to 杭州 (机序 6);
+Day 2 from 杭州 to 杭州 (机序 9);
+Day 3 from 杭州 to 杭州 (机序 15);
+Day 4 from 杭州 to 杭州 (机序 19);
+Day 5 from 杭州 to 杭州 (机序 12);
+Day 6 from 杭州 to 杭州 (机序 9);
+Day 7 from 杭州 to 深圳 (机序 5);
+
+Crew group 30 schedule: 
+Starting from Day 1 from 成都 to 杭州 (机序 7);
+Day 2 from 杭州 to 杭州 (机序 12);
+Day 3 from 杭州 to 杭州 (机序 18);
+Day 4 from 杭州 to 杭州 (机序 20);
+Day 5 from 杭州 to 杭州 (机序 15);
+Day 6 from 杭州 to 杭州 (机序 9);
+Day 7 from 杭州 to 成都 (机序 6);
+
+Crew group 31 schedule: 
+Starting from Day 1 from 昆明 to 重庆 (机序 13);
+Day 2 from 重庆 to 杭州 (机序 24);
+Day 3 from 杭州 to 杭州 (机序 19);
+Day 4 from 杭州 to 杭州 (机序 21);
+Day 5 from 杭州 to 杭州 (机序 18);
+Day 6 from 杭州 to 重庆 (机序 18);
+Day 7 from 重庆 to 昆明 (机序 13);
+
+Crew group 32 schedule: 
+Starting from Day 1 from 乌鲁木齐 to 杭州 (机序 15);
+Day 2 from 杭州 to 杭州 (机序 18);
+Day 3 from 杭州 to 杭州 (机序 20);
+Day 4 from 杭州 to 杭州 (机序 24);
+Day 5 from 杭州 to 杭州 (机序 19);
+Day 6 from 杭州 to 杭州 (机序 12);
+Day 7 from 杭州 to 乌鲁木齐 (机序 14);
+
+Crew group 33 schedule: 
+Starting from Day 1 from 芽庄 to 西安 (机序 17);
+Day 2 from 西安 to 杭州 (机序 11);
+Day 3 from 杭州 to 杭州 (机序 21);
+Day 4 from 杭州 to 杭州 (休息);
+Day 5 from 杭州 to 杭州 (机序 20);
+Day 6 from 杭州 to 西安 (机序 10);
+Day 7 from 西安 to 芽庄 (机序 17);
+
+Crew group 34 schedule: 
+Starting from Day 1 from 宁波 to 宁波 (机序 26);
+Day 2 from 宁波 to 杭州 (机序 25);
+Day 3 from 杭州 to 杭州 (机序 21);
+Day 4 from 杭州 to 杭州 (休息);
+Day 5 from 杭州 to 杭州 (机序 21);
+Day 6 from 杭州 to 宁波 (机序 25);
+Day 7 from 宁波 to 宁波 (机序 26);
+
+Crew group 35 schedule: 
+Starting from Day 1 from 宁波 to 宁波 (机序 26);
+Day 2 from 宁波 to 杭州 (乘客身份);
+Day 3 from 杭州 to 杭州 (机序 24);
+Day 4 from 杭州 to 杭州 (休息);
+Day 5 from 杭州 to 杭州 (机序 21);
+Day 6 from 杭州 to 宁波 (乘客身份);
+Day 7 from 宁波 to 宁波 (机序 26);
+
+Crew group 36 schedule: 
+Starting from Day 4 from 杭州 to 昆明 (机序 7);
+Day 5 from 昆明 to 杭州 (机序 14);
+Day 6 from 杭州 to 杭州 (机序 19);
+Day 7 from 杭州 to 宁波 (机序 25);
+Day 1 from 宁波 to 宁波 (机序 27);
+Day 2 from 宁波 to 昆明 (机序 27);
+Day 3 from 昆明 to 杭州 (机序 14);
+
+Crew group 37 schedule: 
+Starting from Day 4 from 杭州 to 昆明 (机序 12);
+Day 5 from 昆明 to 杭州 (乘客身份);
+Day 6 from 杭州 to 杭州 (机序 20);
+Day 7 from 杭州 to 哈尔滨 (机序 1);
+Day 1 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 2 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 3 from 哈尔滨 to 杭州 (机序 2);
+
+Crew group 38 schedule: 
+Starting from Day 2 from 杭州 to 昆明 (机序 7);
+Day 3 from 昆明 to 昆明 (休息);
+Day 4 from 昆明 to 杭州 (机序 14);
+Day 5 from 杭州 to 杭州 (机序 24);
+Day 6 from 杭州 to 哈尔滨 (机序 16);
+Day 7 from 哈尔滨 to 哈尔滨 (机序 22);
+Day 1 from 哈尔滨 to 杭州 (机序 1);
+
+Crew group 39 schedule: 
+Starting from Day 4 from 杭州 to 哈尔滨 (机序 2);
+Day 5 from 哈尔滨 to 杭州 (机序 2);
+Day 6 from 杭州 to 昆明 (机序 7);
+Day 7 from 昆明 to 宁波 (机序 27);
+Day 1 from 宁波 to 宁波 (机序 28);
+Day 2 from 宁波 to 宁波 (机序 26);
+Day 3 from 宁波 to 杭州 (机序 25);
+
+Crew group 40 schedule: 
+Starting from Day 2 from 杭州 to 昆明 (机序 12);
+Day 3 from 昆明 to 重庆 (机序 13);
+Day 4 from 重庆 to 杭州 (机序 18);
+Day 5 from 杭州 to 宁波 (机序 25);
+Day 6 from 宁波 to 宁波 (机序 26);
+Day 7 from 宁波 to 宁波 (机序 28);
+Day 1 from 宁波 to 杭州 (机序 25);
+
+Crew group 41 schedule: 
+Starting from Day 5 from 杭州 to 北京 (机序 16);
+Day 6 from 北京 to 杭州 (机序 18);
+Day 7 from 杭州 to 西安 (机序 10);
+Day 1 from 西安 to 西安 (机序 11);
+Day 2 from 西安 to 西安 (机序 11);
+Day 3 from 西安 to 西安 (机序 11);
+Day 4 from 西安 to 杭州 (机序 11);
+
+Crew group 42 schedule: 
+Starting from Day 2 from 杭州 to 杭州 (机序 19);
+Day 3 from 杭州 to 乌鲁木齐 (机序 14);
+Day 4 from 乌鲁木齐 to 杭州 (机序 15);
+Day 5 from 杭州 to 哈尔滨 (机序 1);
+Day 6 from 哈尔滨 to 哈尔滨 (休息);
+Day 7 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 1 from 哈尔滨 to 杭州 (机序 2);
+
+Crew group 43 schedule: 
+Starting from Day 6 from 杭州 to 西安 (乘客身份);
+Day 7 from 西安 to 北京 (机序 17);
+Day 1 from 北京 to 西安 (机序 17);
+Day 2 from 西安 to 北京 (机序 17);
+Day 3 from 北京 to 杭州 (机序 18);
+Day 4 from 杭州 to 西安 (机序 10);
+Day 5 from 西安 to 杭州 (机序 7);
+
+Crew group 44 schedule: 
+Starting from Day 2 from 杭州 to 北京 (机序 16);
+Day 3 from 北京 to 西安 (机序 17);
+Day 4 from 西安 to 西安 (机序 10);
+Day 5 from 西安 to 西安 (机序 11);
+Day 6 from 西安 to 西安 (机序 11);
+Day 7 from 西安 to 西安 (机序 11);
+Day 1 from 西安 to 杭州 (机序 11);
+
+Crew group 45 schedule: 
+Starting from Day 3 from 杭州 to 北京 (机序 16);
+Day 4 from 北京 to 杭州 (机序 18);
+Day 5 from 杭州 to 哈尔滨 (机序 2);
+Day 6 from 哈尔滨 to 杭州 (机序 1);
+Day 7 from 杭州 to 昆明 (机序 12);
+Day 1 from 昆明 to 昆明 (休息);
+Day 2 from 昆明 to 杭州 (机序 14);
+
+Crew group 46 schedule: 
+Starting from Day 6 from 杭州 to 昆明 (机序 12);
+Day 7 from 昆明 to 重庆 (机序 13);
+Day 1 from 重庆 to 重庆 (休息);
+Day 2 from 重庆 to 昆明 (机序 13);
+Day 3 from 昆明 to 宁波 (机序 27);
+Day 4 from 宁波 to 宁波 (机序 26);
+Day 5 from 宁波 to 杭州 (机序 25);
+
+Crew group 47 schedule: 
+Starting from Day 3 from 杭州 to 哈尔滨 (机序 1);
+Day 4 from 哈尔滨 to 杭州 (机序 1);
+Day 5 from 杭州 to 杭州 (休息);
+Day 6 from 杭州 to 西安 (乘客身份);
+Day 7 from 西安 to 西安 (休息);
+Day 1 from 西安 to 北京 (机序 17);
+Day 2 from 北京 to 杭州 (机序 18);
+
+Crew group 48 schedule: 
+Starting from Day 3 from 杭州 to 哈尔滨 (机序 2);
+Day 4 from 哈尔滨 to 杭州 (机序 2);
+Day 5 from 杭州 to 杭州 (休息);
+Day 6 from 杭州 to 杭州 (机序 21);
+Day 7 from 杭州 to 哈尔滨 (机序 2);
+Day 1 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 2 from 哈尔滨 to 杭州 (机序 2);
+
+Crew group 49 schedule: 
+Starting from Day 2 from 杭州 to 宁波 (机序 25);
+Day 3 from 宁波 to 宁波 (机序 28);
+Day 4 from 宁波 to 杭州 (机序 25);
+Day 5 from 杭州 to 哈尔滨 (机序 16);
+Day 6 from 哈尔滨 to 杭州 (机序 2);
+Day 7 from 杭州 to 哈尔滨 (机序 16);
+Day 1 from 哈尔滨 to 杭州 (机序 16);
+
+Crew group 50 schedule: 
+Starting from Day 1 from 宁波 to 宁波 (休息);
+Day 2 from 宁波 to 宁波 (机序 28);
+Day 3 from 宁波 to 宁波 (休息);
+Day 4 from 宁波 to 宁波 (机序 28);
+Day 5 from 宁波 to 宁波 (机序 26);
+Day 6 from 宁波 to 宁波 (机序 27);
+Day 7 from 宁波 to 宁波 (休息);
+
+Crew group 51 schedule: 
+Starting from Day 5 from 杭州 to 乌鲁木齐 (机序 14);
+Day 6 from 乌鲁木齐 to 杭州 (机序 15);
+Day 7 from 杭州 to 北京 (机序 16);
+Day 1 from 北京 to 杭州 (机序 18);
+Day 2 from 杭州 to 杭州 (机序 20);
+Day 3 from 杭州 to 杭州 (休息);
+Day 4 from 杭州 to 杭州 (休息);
+
+Crew group 52 schedule: 
+Starting from Day 2 from 昆明 to 昆明 (休息);
+Day 3 from 昆明 to 昆明 (休息);
+Day 4 from 昆明 to 昆明 (休息);
+Day 5 from 昆明 to 昆明 (休息);
+Day 6 from 昆明 to 重庆 (机序 13);
+Day 7 from 重庆 to 重庆 (休息);
+Day 1 from 重庆 to 昆明 (机序 13);
+
+Crew group 53 schedule: 
+Starting from Day 2 from 杭州 to 杭州 (机序 21);
+Day 3 from 杭州 to 杭州 (休息);
+Day 4 from 杭州 to 宁波 (机序 25);
+Day 5 from 宁波 to 宁波 (机序 28);
+Day 6 from 宁波 to 宁波 (机序 28);
+Day 7 from 宁波 to 昆明 (机序 27);
+Day 1 from 昆明 to 杭州 (机序 14);
+
+Crew group 54 schedule: 
+Starting from Day 2 from 杭州 to 杭州 (休息);
+Day 3 from 杭州 to 杭州 (休息);
+Day 4 from 杭州 to 北京 (机序 16);
+Day 5 from 北京 to 西安 (机序 17);
+Day 6 from 西安 to 北京 (机序 17);
+Day 7 from 北京 to 西安 (机序 17);
+Day 1 from 西安 to 杭州 (乘客身份);
+
+Crew group 55 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (机序 24);
+Day 2 from 杭州 to 杭州 (休息);
+Day 3 from 杭州 to 哈尔滨 (机序 16);
+Day 4 from 哈尔滨 to 杭州 (机序 16);
+Day 5 from 杭州 to 哈尔滨 (乘客身份);
+Day 6 from 哈尔滨 to 杭州 (机序 16);
+Day 7 from 杭州 to 杭州 (机序 21);
+
+Crew group 56 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (休息);
+Day 2 from 杭州 to 杭州 (休息);
+Day 3 from 杭州 to 杭州 (休息);
+Day 4 from 杭州 to 杭州 (休息);
+Day 5 from 杭州 to 杭州 (休息);
+Day 6 from 杭州 to 杭州 (机序 24);
+Day 7 from 杭州 to 杭州 (机序 24);
+
+Crew group 57 schedule: 
+Starting from Day 1 from 杭州 to 杭州 (休息);
+Day 2 from 杭州 to 杭州 (休息);
+Day 3 from 杭州 to 西安 (机序 7);
+Day 4 from 西安 to 北京 (机序 17);
+Day 5 from 北京 to 杭州 (机序 18);
+Day 6 from 杭州 to 北京 (机序 16);
+Day 7 from 北京 to 杭州 (机序 18);
+
+Crew group 58 schedule: 
+Starting from Day 1 from 杭州 to 哈尔滨 (机序 2);
+Day 2 from 哈尔滨 to 哈尔滨 (机序 23);
+Day 3 from 哈尔滨 to 杭州 (机序 16);
+Day 4 from 杭州 to 哈尔滨 (机序 16);
+Day 5 from 哈尔滨 to 杭州 (机序 16);
+Day 6 from 杭州 to 杭州 (休息);
+Day 7 from 杭州 to 杭州 (休息);
+
+Crew group 59 schedule: 
+Starting from Day 1 from 杭州 to 哈尔滨 (机序 16);
+Day 2 from 哈尔滨 to 杭州 (机序 16);
+Day 3 from 杭州 to 西安 (机序 10);
+Day 4 from 西安 to 西安 (机序 11);
+Day 5 from 西安 to 杭州 (机序 11);
+Day 6 from 杭州 to 杭州 (休息);
+Day 7 from 杭州 to 杭州 (休息);
